@@ -26,6 +26,16 @@ Additionally, the project will leverage Power BI for advanced data analysis and 
 
 # Report Building in PowerBI 📉
 
+### Visualizations : 
+1. Inflation rates over the years
+2. Access to Electricity
+3. Efficacy of Government Spending on Education
+4. Gross Domestic Product (GDP) and Gross Capital Formation
+5. Gross National Income (GNI) and Average of Mobile Phone Subscriptions
+6. Foreign Direct Investment (FDI)
+7. Top 10 Countries with the Highest Life Expectancy
+8. Imports Vs. Exports by Average Poverty Rate
+
 ## Summary of Plots -
 
 ## Page 1: Overview
@@ -108,7 +118,7 @@ Mid-range countries like Indonesia, India, United States also show considerable 
 
 At the lower end, countries such as South Africa, Korea, and Japan have smaller bars, indicating lower levels of FDI. This could be due to various factors, including economic instability, less favorable investment climates, or smaller market sizes.
 
-### 2. Top 10 Countries with the highest Life Expectancy 
+### 2. Top 10 Countries with the Highest Life Expectancy 
 <div align="center">
   <img src="https://github.com/itzKshitijaC/G-20-Indicators-Analysis/assets/168798073/85385f88-a22d-4dcb-b21a-1d01d011bc70" height="HEIGHT">
 </div>
