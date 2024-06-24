@@ -20,6 +20,26 @@ The analysis is confined to the period from January 1, 2015, to December 31, 202
 
 Additionally, the project will leverage Power BI for advanced data analysis and visualization. By importing the processed data into Power BI, the project aims to create interactive dashboards and reports that provide deeper insights and facilitate better decision-making. This approach facilitates a comprehensive analysis of development indicators, providing valuable insights into the progress and challenges faced by the G-20 countries during the specified timeframe.
 
+# Indicators 🚨
+### Economic 💸
+1. Gross Domestic Product (GDP)
+2. Gross National Income (GNI)
+3. Inflation Rate
+4. Foreign Direct Investment (FDI)
+5. Exports of Goods and Services
+6. Gross Capital Formation
+7. Agricultural land Area
+8. Agricultural Production Index
+
+### Social 🤗
+1. Unemployment Rate
+2. Poverty Rate
+3. Life Expectancy
+4. Literacy Rate
+5. Access To Electricity
+6. Mobile Phone Subscriptions
+7. Government Expenditure on Education
+
 # Tools Used 🔨
 - ### Python 
 - ### Power BI
